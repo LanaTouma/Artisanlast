@@ -1,0 +1,16 @@
+C:\Users\Lana\source\repos\Artisan.Application\bin\Debug\net8.0\Artisan.Application.deps.json
+C:\Users\Lana\source\repos\Artisan.Application\bin\Debug\net8.0\Artisan.Application.dll
+C:\Users\Lana\source\repos\Artisan.Application\bin\Debug\net8.0\Artisan.Application.pdb
+C:\Users\Lana\source\repos\Artisan.Application\bin\Debug\net8.0\Artisan.Domain.dll
+C:\Users\Lana\source\repos\Artisan.Application\bin\Debug\net8.0\Artisan.Domain.pdb
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.csproj.AssemblyReference.cache
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.AssemblyInfo.cs
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan..C3C941D6.Up2Date
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.dll
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\refint\Artisan.Application.dll
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.pdb
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\ref\Artisan.Application.dll
+C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.sourcelink.json

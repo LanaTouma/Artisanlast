@@ -1,0 +1,11 @@
+C:\Users\Lana\source\repos\Artisan.Core\bin\Debug\net8.0\Artisan.Core.deps.json
+C:\Users\Lana\source\repos\Artisan.Core\bin\Debug\net8.0\Artisan.Core.dll
+C:\Users\Lana\source\repos\Artisan.Core\bin\Debug\net8.0\Artisan.Core.pdb
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.AssemblyInfo.cs
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.dll
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\refint\Artisan.Core.dll
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Core.pdb
+C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\ref\Artisan.Core.dll

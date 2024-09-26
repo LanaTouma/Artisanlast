@@ -1,0 +1,5 @@
+C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.csproj.AssemblyReference.cache
+C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfo.cs
+C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+@Artisan_HostAddress = http://localhost:5182
+
+GET {{Artisan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

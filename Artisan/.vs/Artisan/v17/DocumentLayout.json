@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lana\\source\\repos\\Artisan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF6BD47-B699-4597-BD25-EC3906189764}|..\\Artisan.Application\\Artisan.Application.csproj|c:\\users\\lana\\source\\repos\\artisan.application\\artisan.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|c:\\users\\lana\\source\\repos\\artisan\\artisan.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|solutionrelative:artisan.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF6BD47-B699-4597-BD25-EC3906189764}|..\\Artisan.Application\\Artisan.Application.csproj|c:\\users\\lana\\source\\repos\\artisan.application\\artisansappservice\\artisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\artisan.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\migrations\\20240817132256_moretables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\repositories\\artisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF6BD47-B699-4597-BD25-EC3906189764}|..\\Artisan.Application\\Artisan.Application.csproj|c:\\users\\lana\\source\\repos\\artisan.application\\artisansappservice\\iartisanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\irepositories\\iartisanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|c:\\users\\lana\\source\\repos\\artisan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\artisans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\artisandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|c:\\users\\lana\\source\\repos\\artisan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{031E4CC0-BD87-4F8E-B69E-438C6CEDB3A0}|Artisan.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5B63F2-1689-4CC3-B88D-2317A1589450}|..\\Artisan.Presentation\\Artisan.Presentation.csproj|c:\\users\\lana\\source\\repos\\artisan.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5B63F2-1689-4CC3-B88D-2317A1589450}|..\\Artisan.Presentation\\Artisan.Presentation.csproj|c:\\users\\lana\\source\\repos\\artisan.presentation\\artisan.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A997DB-2EA1-424A-93E9-96238D16A613}|..\\Artisan.Core\\Artisan.Domain.csproj|c:\\users\\lana\\source\\repos\\artisan.core\\artisan.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5B63F2-1689-4CC3-B88D-2317A1589450}|..\\Artisan.Presentation\\Artisan.Presentation.csproj|c:\\users\\lana\\source\\repos\\artisan.presentation\\artisan.presentation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B566094-DCED-40E0-9A92-AFBB33EF01DF}|..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj|c:\\users\\lana\\source\\repos\\artisan.infrastructure\\artisan.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtisanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Repositories\\ArtisanRepository.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\Repositories\\ArtisanRepository.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Repositories\\ArtisanRepository.cs",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\Repositories\\ArtisanRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:15.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:30:10.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IArtisanService.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\ArtisansAppService\\IArtisanService.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Application\\ArtisansAppService\\IArtisanService.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\ArtisansAppService\\IArtisanService.cs",
+              "RelativeToolTip": "..\\Artisan.Application\\ArtisansAppService\\IArtisanService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:57:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtisanService.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\ArtisansAppService\\ArtisanService.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Application\\ArtisansAppService\\ArtisanService.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\ArtisansAppService\\ArtisanService.cs",
+              "RelativeToolTip": "..\\Artisan.Application\\ArtisansAppService\\ArtisanService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:57:55.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Artisan.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\Artisan.Application.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Application\\Artisan.Application.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\Artisan.Application.csproj",
+              "RelativeToolTip": "..\\Artisan.Application\\Artisan.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:22:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artisan.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan\\Artisan.API.csproj",
+              "RelativeDocumentMoniker": "Artisan.API.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan\\Artisan.API.csproj",
+              "RelativeToolTip": "Artisan.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:12:08.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240817132256_moretables.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Migrations\\20240817132256_moretables.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\Migrations\\20240817132256_moretables.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Migrations\\20240817132256_moretables.cs",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\Migrations\\20240817132256_moretables.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAtwKcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:26:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artisan.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-20T14:22:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\IRepositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\IRepositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\IRepositories\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\IRepositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:14:16.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IArtisanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\IRepositories\\IArtisanRepository.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\IRepositories\\IArtisanRepository.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\IRepositories\\IArtisanRepository.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\IRepositories\\IArtisanRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:15:38.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Orders.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:48:54.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Products.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:43:32.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\OrderItems.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\OrderItems.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\OrderItems.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:49:40.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:40:12.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:50:16.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Artisans.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Artisans.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\Artisans.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Artisans.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\Artisans.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwCMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:34:59.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Artisan.Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:00:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppSettings.Json",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\AppSettings.Json",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\AppSettings.Json",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\AppSettings.Json",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\AppSettings.Json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T08:20:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArtisanDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\ArtisanDBContext.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\ArtisanDBContext.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\ArtisanDBContext.cs",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\ArtisanDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:17:31.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:14:41.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-13T10:56:04.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Artisan.Presentation\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Class1.cs",
+              "RelativeToolTip": "..\\Artisan.Presentation\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:15:37.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Artisan.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "RelativeToolTip": "..\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T12:15:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Artisan.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Artisan.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Core\\Artisan.Domain.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Core\\Artisan.Domain.csproj",
+              "RelativeToolTip": "..\\Artisan.Core\\Artisan.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T11:12:30.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Artisan.Presentation",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "RelativeToolTip": "..\\Artisan.Presentation\\Artisan.Presentation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T12:15:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Artisan.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Lana\\source\\repos\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "RelativeToolTip": "..\\Artisan.Infrastructure\\Artisan.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T12:15:42.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
