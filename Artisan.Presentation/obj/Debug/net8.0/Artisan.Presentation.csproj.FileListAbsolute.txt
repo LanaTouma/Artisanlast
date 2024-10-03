@@ -3,3 +3,25 @@ C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Present
 C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfoInputs.cache
 C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfo.cs
 C:\Users\Lana\source\repos\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.csproj.CoreCompileInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Application.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Infrastructure.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Application.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Infrastructure.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Domain.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.csproj.AssemblyReference.cache
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfoInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.AssemblyInfo.cs
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.csproj.CoreCompileInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan..CA302D99.Up2Date
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\refint\Artisan.Presentation.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Presentation.deps.json
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Presentation.runtimeconfig.json
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Presentation.dll
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\bin\Debug\net8.0\Artisan.Presentation.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\Artisan.Presentation.genruntimeconfig.cache
+D:\Artisan Backend\Artisanlast\Artisan.Presentation\obj\Debug\net8.0\ref\Artisan.Presentation.dll

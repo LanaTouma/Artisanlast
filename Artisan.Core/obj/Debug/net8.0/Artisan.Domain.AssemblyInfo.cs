@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Artisan.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2279b5f8798a2355eaa1ff20ab58a1101f5d9227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114111d263b4c25ced50e70654f439b14af42074")]
 [assembly: System.Reflection.AssemblyProductAttribute("Artisan.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Artisan.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

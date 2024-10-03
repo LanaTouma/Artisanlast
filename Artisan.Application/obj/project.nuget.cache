@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z31bMW06aPpWJokhKHHkB1Bl+PD5tKvzWtG1GCpmhPPxxrrWOYwuQo08lU9ryMF2Rh7oxjpmIjKYk/uJd7qohg==",
+  "dgSpecHash": "EuwJEkqg8IQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lana\\source\\repos\\Artisan.Application\\Artisan.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Artisan Backend\\Artisanlast\\Artisan.Application\\Artisan.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

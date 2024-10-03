@@ -14,3 +14,19 @@ C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\refint\Artisan.A
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.pdb
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\ref\Artisan.Application.dll
 C:\Users\Lana\source\repos\Artisan.Application\obj\Debug\net8.0\Artisan.Application.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Application\bin\Debug\net8.0\Artisan.Application.deps.json
+D:\Artisan Backend\Artisanlast\Artisan.Application\bin\Debug\net8.0\Artisan.Application.dll
+D:\Artisan Backend\Artisanlast\Artisan.Application\bin\Debug\net8.0\Artisan.Application.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Application\bin\Debug\net8.0\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Application\bin\Debug\net8.0\Artisan.Domain.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.csproj.AssemblyReference.cache
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.AssemblyInfoInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.AssemblyInfo.cs
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.csproj.CoreCompileInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan..C3C941D6.Up2Date
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.dll
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\refint\Artisan.Application.dll
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\Artisan.Application.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Application\obj\Debug\net8.0\ref\Artisan.Application.dll

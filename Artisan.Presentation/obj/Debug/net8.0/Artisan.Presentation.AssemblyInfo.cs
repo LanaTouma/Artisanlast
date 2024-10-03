@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Artisan.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+114111d263b4c25ced50e70654f439b14af42074")]
 [assembly: System.Reflection.AssemblyProductAttribute("Artisan.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Artisan.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,3 +18,23 @@ C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infra
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.genruntimeconfig.cache
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\ref\Artisan.Infrastructure.dll
 C:\Users\Lana\source\repos\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Infrastructure.deps.json
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Infrastructure.runtimeconfig.json
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Infrastructure.dll
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Infrastructure.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Application.dll
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Application.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\bin\Debug\net8.0\Artisan.Domain.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.csproj.AssemblyReference.cache
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.AssemblyInfoInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.AssemblyInfo.cs
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan..5E31F715.Up2Date
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.dll
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\refint\Artisan.Infrastructure.dll
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\Artisan.Infrastructure.genruntimeconfig.cache
+D:\Artisan Backend\Artisanlast\Artisan.Infrastructure\obj\Debug\net8.0\ref\Artisan.Infrastructure.dll

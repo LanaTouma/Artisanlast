@@ -22,7 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Artisan.Application\Artisan.Application.csproj" />
     <ProjectReference Include="..\Artisan.Infrastructure\Artisan.Infrastructure.csproj" />
-	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
 	  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.0" />
   </ItemGroup>
 

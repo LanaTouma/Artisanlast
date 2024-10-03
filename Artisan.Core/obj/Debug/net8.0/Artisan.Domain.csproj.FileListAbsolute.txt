@@ -10,3 +10,16 @@ C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\refint\Artisan.Domain.d
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.pdb
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\ref\Artisan.Domain.dll
 C:\Users\Lana\source\repos\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Core\bin\Debug\net8.0\Artisan.Domain.deps.json
+D:\Artisan Backend\Artisanlast\Artisan.Core\bin\Debug\net8.0\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Core\bin\Debug\net8.0\Artisan.Domain.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.AssemblyInfoInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.AssemblyInfo.cs
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.csproj.CoreCompileInputs.cache
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.sourcelink.json
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\refint\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.pdb
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\ref\Artisan.Domain.dll
+D:\Artisan Backend\Artisanlast\Artisan.Core\obj\Debug\net8.0\Artisan.Domain.csproj.AssemblyReference.cache
